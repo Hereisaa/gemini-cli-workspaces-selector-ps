@@ -1,4 +1,4 @@
-﻿# Gemini CLI Workspaces Selector (GWS)
+﻿# Gemini CLI Workspaces Selector For PowerShell (GWS)
 
 🚀 A powerful PowerShell module to manage and switch between different project workspaces while launching Gemini CLI seamlessly.
 
